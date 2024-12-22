@@ -1,0 +1,40 @@
+body {
+	background-image: url(background.gif);
+    margin-inline: 10%;
+  }
+
+#container {
+	border: 10px white solid;
+	background-color: white;
+  }
+
+.date {
+	border-bottom-style: dashed;
+	border-bottom-width: 2px;
+	border-bottom-color: blue;
+  }
+
+.entry {
+	padding: 5px;
+	margin-top: 10px;
+	border: 4px #C2E9E9 solid;
+	border-radius: 15px;
+	background-color: #E8FBFB;
+	text-align: justify;
+  }
+
+.entry img {
+	float: right;
+}
+
+#header {
+	background-color: #A8F0F0;
+	text-align: right;
+  }
+#header h2 {
+  	font-size: 14pt;
+  }
+
+.spacer {
+	clear: right;
+}
